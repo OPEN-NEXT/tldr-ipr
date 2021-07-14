@@ -10,7 +10,7 @@ However, both branches _only_ contain source files.
 
 If you're looking for PDF exports, check the latest [release](https://github.com/OPEN-NEXT/tldr-ipr/releases).
 
-- PDF export of `v1.0` → [here]()
+- PDF export of `v1.0` → [here](https://github.com/OPEN-NEXT/tldr-ipr/releases/download/v1.0.0/tldr-IPR.pdf)
 
 ## Want to contribute \[?\]
 
