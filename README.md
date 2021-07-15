@@ -1,6 +1,6 @@
 # tl;dr-IPR
 
-This document aims to be a [tl;dr](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/) (**t**oo **l**ong**;** **d**idn't **r**ead; that is, a summary in this context) for intellectual property rights (IPR) and licensing with focus on open source hardware. It is essentially a very, very brief summary of legal aspects described in the [OSH Guideline for Legal Issues](https://gitlab.com/OSEGermany/osh-guideline-legal-issues) by OSEGeV.
+This document aims to be a [tl;dr](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/) (**t**oo **l**ong **;** **d**idn't **r**ead; that is, a summary in this context) for intellectual property rights (IPR) and licensing with focus on open source hardware. It is essentially a very, very brief summary of legal aspects described in the [OSH Guideline for Legal Issues](https://gitlab.com/OSEGermany/osh-guideline-legal-issues) by OSEGeV.
 
 ## What is in this repo?
 
