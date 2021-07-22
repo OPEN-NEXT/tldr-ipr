@@ -12,7 +12,7 @@ If you're looking for PDF exports, check the latest [release](https://github.com
 
 - PDF export of `v1.0` → [here](https://github.com/OPEN-NEXT/tldr-ipr/releases/download/v1.0.0/tldr-IPR.pdf)
 
-## Want to contribute \[?\]
+## Want to contribute?
 
 'til we have a proper conribution guide,
 just join our group on [telegram](https://t.me/joinchat/FiYCVhD-NPfpMr5PnZaiNQ) :)
