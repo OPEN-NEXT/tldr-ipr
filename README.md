@@ -1,3 +1,6 @@
+[![DOI](https://www.zenodo.org/badge/5156249.svg)](https://www.zenodo.org/badge/latestdoi/5156249)
+[![GitHub license](https://img.shields.io/github/license/OPEN-NEXT/wp2.2_dev.svg?style=flat)](./LICENSE)
+
 # tl;dr-IPR
 
 This document aims to be a [tl;dr](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/) (**t**oo **l**ong **;** **d**idn't **r**ead; that is, a summary in this context) for intellectual property rights (IPR) and licensing with focus on open source hardware. It is essentially a very, very brief summary of legal aspects described in the [OSH Guideline for Legal Issues](https://gitlab.com/OSEGermany/osh-guideline-legal-issues) by OSEGeV.
