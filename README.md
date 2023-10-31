@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/385656528.svg)](https://zenodo.org/badge/latestdoi/385656528) 
-[![GitHub license](https://img.shields.io/github/license/OPEN-NEXT/wp2.2_dev.svg?style=flat)](./LICENSE)
+[![DOI](https://zenodo.org/badge/385656528.svg)](https://zenodo.org/badge/latestdoi/385656528)
 
 # tl;dr-IPR
 
